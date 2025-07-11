@@ -1,45 +1,76 @@
 # 👋 Hi, I'm Sai Nikhil Muduthanapalli
 
-🎯 Aspiring Data Scientist | Full Stack Developer | Machine Learning Engineer  
-💡 Passionate about solving real-world problems through data and building intelligent, scalable applications.
+🎓 MS in Information Technology | 📍 California, USA  
+💻 Data Scientist | Machine Learning Engineer | Python Developer  
+📧 sainikhilm99@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/sai-nikhil) | 🔗 [GitHub](https://github.com/Sainikhil99)
 
 ---
 
-## 📌 Skills & Technologies
+## 🚀 About Me
 
-- **Languages**: Python, R , Java, SQL  
-- **Machine Learning**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
-- **Web Development**: React.js, Spring Boot, Streamlit  
-- **Tools & Platforms**: Git, GitHub, Jupyter, VS Code, Docker, AWS
+I'm a passionate Data Scientist and ML Engineer with hands-on experience in real-world machine learning projects. My background includes solving classification, regression, clustering, and forecasting problems using Python and its ecosystem.
 
----
-
-## 🚀 Featured Projects
-
-### 🏦 [Loan Approval Prediction](https://github.com/Sainikhil99/loan-approval-prediction)
-A classification project to predict loan approvals using **Logistic Regression**. Includes data cleaning, EDA, feature engineering, model training, and Streamlit-based deployment.  
-📊 *Tools*: Python, Pandas, Scikit-learn, Streamlit  
-📁 `loan_model.pkl` deployed with a user-friendly interface.
+I love building end-to-end data projects that turn raw data into powerful business insights and deploying models using modern tools like Streamlit.
 
 ---
 
-### 🌡️ [City Temperature Visualization](https://github.com/Sainikhil99/City-Temperature)
-A time-series data visualization project analyzing monthly temperatures for Moscow, Melbourne, and San Francisco.  
-📊 *Tools*: Python, Matplotlib, Seaborn, Pandas  
-🎯 Focus: Climate patterns, trends, and seasonal variations.
+## 🔨 Tools & Technologies
+
+**Languages:** Python, SQL  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost  
+**ML & Analytics:** Supervised Learning, Classification, Clustering, Time Series  
+**Data Visualization:** Power BI, Tableau, Seaborn, Matplotlib  
+**Deployment:** Streamlit, Git  
+**Other:** Jupyter Notebook, VS Code, GitHub, Excel
 
 ---
 
-### ✈️ [Travel Aggregator Analysis](https://github.com/Sainikhil99/Travel-Aggregator-Analysis)
-Analyzed booking and session data from a travel platform to uncover user behavior and optimize conversion funnels.  
-📊 *Skills*: Data cleaning, groupby, pivot tables, visual analytics  
-✅ Delivered business insights using Python and EDA techniques.
+## 📂 My Projects
+
+| Project Title | Description | Tech Stack |
+|---------------|-------------|------------|
+| 🔹 [Student Performance Predictor](https://github.com/Sainikhil99/Student-Performance-Predictor-) | Predicts whether a student passes or fails based on scores and background using ML classification | Python, Pandas, Sklearn, EDA |
+| 🔹 [Churn Prediction](https://github.com/Sainikhil99/churn-prediction-ml) | Predicts customer churn for a telecom company and identifies key retention factors | Python, Sklearn, Random Forest, XGBoost |
+| 🔹 [Loan Approval Prediction](https://github.com/Sainikhil99/loan-approval-prediction) | ML model to predict whether a customer will get a loan approved | Streamlit, Logistic Regression, Data Imputation |
+| 🔹 [City Temperature Heatmap](https://github.com/Sainikhil99/City-Temperature) | Visualizes average monthly temperature changes across 3 cities using heatmaps | Python, Seaborn, Matplotlib |
+| 🔹 [Travel Aggregator Analysis](https://github.com/Sainikhil99/Travel-Aggregator-Analysis) | Data analysis on travel booking trends and customer behavior from aggregator platforms | Python, EDA, Grouping, Sorting |
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 What I’ve Learned
 
+- Building **end-to-end ML pipelines**: from raw CSV to deployed prediction tool  
+- Mastered **EDA and feature engineering** for better model performance  
+- Hands-on experience with **classification models** like Logistic Regression, Random Forest, XGBoost  
+- Gained confidence with **data visualization** and storytelling using dashboards and heatmaps  
+- Learned to **deploy models with Streamlit** for interactive predictions  
+- Improved code structuring, documentation, and GitHub repo presentation  
+
+---
+
+## 📌 Goals
+
+- Deepen my understanding of ML, DL, and MLOps  
+- Collaborate on impactful data science projects  
+- Contribute to open-source and AI research  
+- Get placed as a **Machine Learning Engineer / Data Scientist** in a top U.S.-based firm  
+
+---
+
+## 🤝 Let’s Connect
+
+📫 Email: sainikhilm99@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/sai-nikhil](https://www.linkedin.com/in/sai-nikhil)  
+
+💼 Resume, Projects, and Blog coming soon...
+
+---
 ![Sai Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sainikhil99&show_icons=true&theme=radical)
+
+
+
+Thanks for visiting my GitHub! ⭐ Feel free to explore the projects, open issues, or reach out to collaborate!
+
 
 ---
 
