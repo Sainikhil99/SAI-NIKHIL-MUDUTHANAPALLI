@@ -2,7 +2,7 @@
 
 🎓 MS in Information Technology | 📍 California, USA  
 💻 Data Scientist | Machine Learning Engineer | Python Developer  
-📧 sainikhilm99@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/sai-nikhil) | 🔗 [GitHub](https://github.com/Sainikhil99)
+📧 smuduthanapalli@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/sainikhil0009) | 🔗 [GitHub](https://github.com/Sainikhil99)
 
 ---
 
@@ -59,8 +59,8 @@ I love building end-to-end data projects that turn raw data into powerful busine
 
 ## 🤝 Let’s Connect
 
-📫 Email: sainikhilm99@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/sai-nikhil](https://www.linkedin.com/in/sai-nikhil)  
+📫 Email: smuduthanapalli@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/sainikhil0009](https://www.linkedin.com/in/sainikhil0009)  
 
 💼 Resume, Projects, and Blog coming soon...
 
